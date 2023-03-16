@@ -48,3 +48,44 @@
 </li>
 <li>By default the program is set to generate a single image with a resolution of <code>256x256</code>. This was done for prompt testing purposes due to the greater charges OpenAI places on higher resolution images. This however can easily be changed by modifying the <code>size</code> parameter in the <code>openai.Image.create()</code> function call to a greater resolution such as <code>1024x1024</code> and by modifying the <code>n</code> parameter to a set number of how many images you want such as <code>3</code>.</li>
 </ul>
+
+<h1>
+  <img src="https://github.com/joshfarias/COMSC210/raw/main/images/html.png" alt="html" height="100">
+  <img src="https://github.com/joshfarias/COMSC210/raw/main/images/css.png" alt="css" height="100">
+</h1>
+ 
+ ## Responsive HTML Website
+
+HTML Website project based on the video tutorial [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw&feature=youtu.be) by Brad Traversy.
+
+This project contains the following branches:
+
+### **[index.html](https://github.com/joshfarias/COMSC210/blob/main/HTML/jf-lab3-html-website/index.html)**
+- Header Section [indexPT1](https://github.com/joshfarias/COMSC210/blob/indexPT1/HTML/jf-lab3-html-website/index.html).
+- Showcase & Newsletter [indexPT2](https://github.com/joshfarias/COMSC210/blob/indexPT2/HTML/jf-lab3-html-website/index.html).
+- Container for text & images [indexPT3](https://github.com/joshfarias/COMSC210/blob/indexPT3/HTML/jf-lab3-html-website/index.html).
+- Footer [indexFINAL](https://github.com/joshfarias/COMSC210/blob/indexFINAL/HTML/jf-lab3-html-website/index.html).
+
+### **[style.css](https://github.com/joshfarias/COMSC210/blob/main/HTML/jf-lab3-html-website/css/style.css)**
+- Body, UL & Button_1 [stylePT1](https://github.com/joshfarias/COMSC210/blob/stylePT1/HTML/jf-lab3-html-website/css/style.css).
+- Dark Class Styling & Headers [stylePT2](https://github.com/joshfarias/COMSC210/blob/stylePT2/HTML/jf-lab3-html-website/css/style.css).
+- Showcase & Newsletter [stylePT3](https://github.com/joshfarias/COMSC210/blob/stylePT3/HTML/jf-lab3-html-website/css/style.css).
+- Boxes [stylePT4](https://github.com/joshfarias/COMSC210/blob/stylePT4/HTML/jf-lab3-html-website/css/style.css).
+- Sidebar, Main Column, Services & Footer [stylePT5](https://github.com/joshfarias/COMSC210/blob/stylePT5/HTML/jf-lab3-html-website/css/style.css).
+- Media Queries for Low Resolution [styleFINAL](https://github.com/joshfarias/COMSC210/blob/styleFINAL/HTML/jf-lab3-html-website/css/style.css).
+
+### **[about.html](https://github.com/joshfarias/COMSC210/blob/main/HTML/jf-lab3-html-website/about.html)**
+- About page for website [aboutFINAL](https://github.com/joshfarias/COMSC210/blob/aboutFINAL/HTML/jf-lab3-html-website/about.html).
+
+### **[services.html](https://github.com/joshfarias/COMSC210/blob/main/HTML/jf-lab3-html-website/services.html)**
+- Services page for website [servicesFINAL](https://github.com/joshfarias/COMSC210/blob/servicesFINAL/HTML/jf-lab3-html-website/services.html).
+
+### Website Images
+- Homepage
+![Homepage](https://i.imgur.com/uqBYT1H.png)
+
+- About
+![About](https://i.imgur.com/jUqyvuP.png)
+
+- Services
+![Services](https://i.imgur.com/Ua69XOF.png)
