@@ -49,6 +49,8 @@
 <li>By default the program is set to generate a single image with a resolution of <code>256x256</code>. This was done for prompt testing purposes due to the greater charges OpenAI places on higher resolution images. This however can easily be changed by modifying the <code>size</code> parameter in the <code>openai.Image.create()</code> function call to a greater resolution such as <code>1024x1024</code> and by modifying the <code>n</code> parameter to a set number of how many images you want such as <code>3</code>.</li>
 </ul>
 
+<h1></h1>
+
 <h1>
   <img src="https://github.com/joshfarias/COMSC210/raw/main/images/html.png" alt="html" height="100">
   <img src="https://github.com/joshfarias/COMSC210/raw/main/images/css.png" alt="css" height="100">
