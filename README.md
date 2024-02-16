@@ -12,7 +12,7 @@
 <p>Below is an screenshot containing a brief conversation with the chatbot:</p>
 
 <h2>
-<img src="https://github.com/joshfarias/Python/blob/main/images/davinci-003-chatbot.png" alt="python logo" height="400">
+<img src="https://github.com/joshfarias/Python/blob/main/images/davinci-003-chatbot.png" height="400">
 </h2>
 
 <h4>Notes</h4>
