@@ -23,7 +23,6 @@
   <li>Use a configuration file to store the API key</li>
   <li>Pass the API key through a command-line argument</li>
   <li>Use a keyring library</li>
-  <li>Hardcode the API key (not recommended)</li>
   </ul>
 </li>
 <li>The <code>openai.Completion.create()</code> function call includes several parameters that can be adjusted to change the behavior of the chatbot. More information regarding the parameters can be found on <a href="https://platform.openai.com/docs/api-reference/completions/create">OpenAI's API documentation</a>.</li>
