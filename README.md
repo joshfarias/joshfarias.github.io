@@ -42,7 +42,6 @@
     <li>Use a configuration file to store the API key</li>
     <li>Pass the API key through a command-line argument</li>
     <li>Use a keyring library</li>
-    <li>Hardcode the API key (not recommended)</li>
   </ul>
 </li>
 <li>By default the program is set to generate a single image with a resolution of <code>256x256</code>. This was done for prompt testing purposes due to the greater charges OpenAI places on higher resolution images. This however can easily be changed by modifying the <code>size</code> parameter in the <code>openai.Image.create()</code> function call to a greater resolution such as <code>1024x1024</code> and by modifying the <code>n</code> parameter to a set number of how many images you want such as <code>3</code>.</li>
