@@ -3,7 +3,7 @@
 ## Programming Projects
 
 <h2>
-  <img src="https://github.com/joshfarias/Python/raw/main/images/python-logo.png" height="100">
+  <img src="https://raw.githubusercontent.com/joshfarias/Python/main/images/python-logo.png" height="100">
 </h2>
 
 <h3>Chatbot using text-davinci-003 Model from OpenAI</h3>
@@ -12,7 +12,7 @@
 <p>Below is an screenshot containing a brief conversation with the chatbot:</p>
 
 <h2>
-<img src="https://github.com/joshfarias/Python/blob/main/images/davinci-003-chatbot.png" height="400">
+<img src="https://raw.githubusercontent.com/joshfarias/Python/main/images/davinci-003-chatbot.png" height="400">
 </h2>
 
 <h4>Notes</h4>
@@ -33,7 +33,7 @@
 <p><a href="https://github.com/joshfarias/Python/blob/main/src/DALLEImageGenerator.py">DALLEImageGenerator.py</a></p>
 <p>This program uses <a href="https://openai.com/blog/openai-api">OpenAI's API</a> to generate images based on user prompts using OpenAI's DALL-E model. For best results, user prompts should be clear and concise. For example <code>cat</code> vs <code>orange cat sitting on a windowsill overlooking a city skyline at sunset, photorealistic</code>:</p>
 
-<p><img src="https://github.com/joshfarias/Python/blob/main/images/cat.png" alt="Orange Cat"> <img src="https://github.com/joshfarias/Python/blob/main/images/better-cat-prompt.png" alt="Orange Cat Sitting on Windowsill"></p>
+<p><img src="https://raw.githubusercontent.com/joshfarias/Python/main/images/cat.png" alt="Orange Cat"> <img src="https://raw.githubusercontent.com/joshfarias/Python/main/images/better-cat-prompt.png" alt="Orange Cat Sitting on Windowsill"></p>
 
 <h4>Notes</h4>
 <ul>
@@ -52,8 +52,8 @@
 <h1></h1>
 
 <h1>
-  <img src="https://github.com/joshfarias/COMSC210/raw/main/images/html.png" alt="html" height="100">
-  <img src="https://github.com/joshfarias/COMSC210/raw/main/images/css.png" alt="css" height="100">
+  <img src="https://raw.githubusercontent.com/joshfarias/COMSC210/main/images/html.png" alt="html" height="100">
+  <img src="https://raw.githubusercontent.com/joshfarias/COMSC210/main/images/css.png" alt="css" height="100">
 </h1>
  
  ## Responsive HTML Website
